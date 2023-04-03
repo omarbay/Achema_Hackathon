@@ -1,5 +1,5 @@
 # Achema_Hackathon
-For Citation Please cite this work: 
+Please cite this work: 
 Omar S. Bayomie, Rafael F. L. de Cerqueira, Laura Neuendorf, Iwan Kornijez, Samuel Kieling, Tim H. Sandermann, Keno Lammers, Norbert Kockmann,
 Detecting flooding state in extraction columns: Convolutional neural networks vs. a white‐box approach for image‐based soft sensor development,
 Computers & Chemical Engineering,
