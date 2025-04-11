@@ -1,4 +1,4 @@
-# Achema_Hackathon
+# Achema_Hackathon We_are_the_winners!
 Please cite this work: 
 Omar S. Bayomie, Rafael F. L. de Cerqueira, Laura Neuendorf, Iwan Kornijez, Samuel Kieling, Tim H. Sandermann, Keno Lammers, Norbert Kockmann.
 
