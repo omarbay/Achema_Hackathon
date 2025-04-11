@@ -1,4 +1,7 @@
 # Achema_Hackathon We_are_the_winners!
+
+More Details: https://www.achema.de/en/the-achema/innovation-challenge
+
 Please cite this work: 
 Omar S. Bayomie, Rafael F. L. de Cerqueira, Laura Neuendorf, Iwan Kornijez, Samuel Kieling, Tim H. Sandermann, Keno Lammers, Norbert Kockmann.
 
